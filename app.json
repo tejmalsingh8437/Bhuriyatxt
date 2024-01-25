@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
-    "success_url": "https://t.me/AdityaDiscus",
+    "repository": "https://github.com/Sawai12/Bhuriyatxt",
+    "success_url": "https://t.me/+Y2K9rQmgzaoyYjBk",
     "stack": "container",
     "env": {
         "API_ID": {
