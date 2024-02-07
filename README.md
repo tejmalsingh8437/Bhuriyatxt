@@ -1,1 +1,1 @@
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rawal01singhbhati/Bhuriyatxt)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tejmalsingh8437/Bhuriyatxt)
